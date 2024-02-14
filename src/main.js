@@ -2,6 +2,12 @@
 // hours spent:
 //
 
+
+// global variables
+let cursors
+const tileSize = 35
+const SCALE = 0.5
+
 let config = {
     type: Phaser.AUTO,
     width: 640,
